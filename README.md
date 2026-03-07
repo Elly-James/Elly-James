@@ -128,11 +128,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elly-James&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+| 🎯 Achievement | 📋 Details |
+|----------------|-----------|
+| 🏅 Certified Full-Stack Developer | Flatiron School (Moringa) · 2025 |
+| 🀄 HSK Level 2 Chinese | Confucius Institute, UoN · 2024 |
+| 💼 100% Client Satisfaction | 4+ Years Freelance · 2021–Present |
+| 🎓 B.Sc. Mathematics & Computer Science | JKUAT · 2019–2023 |
+| 🏫 Class Representative | JKUAT — 4 Years (80+ students) |
+| 🏫 Class Representative | Flatiron / Moringa School · 2024–2025 |
+| 🌍 Multilingual | English · Swahili · Chinese (HSK 2) |
+| ⚡ Full-Stack Projects Delivered | Readorama · Aurelian · MyDuka · Camision |
 
 </div>
 
