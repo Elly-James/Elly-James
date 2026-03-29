@@ -52,7 +52,7 @@
     <td>🗣️ <strong>Languages</strong></td>
     <td>English 🇬🇧 · Swahili 🇰🇪 · Chinese 🇨🇳 (HSK 2)</td>
     <td>🌐 <strong>Portfolio</strong></td>
-    <td><a href="https://elly-james.vercel.app">elly-james.vercel.app</a></td>
+    <td><a href="https://elly-james-portfolio.onrender.com/">elly-james.render.app</a></td>
   </tr>
   <tr>
     <td colspan="4" align="center"><em>"Results-driven developer with 100% client satisfaction across every project delivered 🚀"</em></td>
@@ -105,7 +105,7 @@
 | 🛒 | **[MyDuka – Store Management System](#)** | React · Python · PostgreSQL | Retail management app with role-based access, inventory tracking & supply-chain reporting |
 | 🎓 | **[Camision Universal College](#)** | React · Python · PostgreSQL | Educational portal with course management, student navigation & admin tools |
 
-> 🔗 **View all projects on my [Portfolio →](https://elly-james.vercel.app)**
+> 🔗 **View all projects on my [Portfolio →](https://elly-james-portfolio.onrender.com/)**
 
 </div>
 
